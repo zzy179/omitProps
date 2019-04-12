@@ -1,2 +1,3 @@
-import omitProps from "./omitProps"
-export default omitProps
+import omitProps from './omitProps';
+
+export default omitProps;

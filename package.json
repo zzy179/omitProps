@@ -7,8 +7,8 @@
   "scripts": {
     "prepublish": "babel --presets @babel/preset-env ./src --out-dir lib"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "zzy179",
+  "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.4.3",
     "@babel/core": "^7.4.3",
