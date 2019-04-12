@@ -1,0 +1,17 @@
+{
+  "name": "@aimer2/omitprops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "prepublish": "babel --presets @babel/preset-env ./src --out-dir lib"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.4.3",
+    "@babel/core": "^7.4.3",
+    "@babel/preset-env": "^7.4.3"
+  }
+}
